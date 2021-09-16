@@ -1,3 +1,5 @@
+%This class is used for MATLAB based code for calculating Polar values
+
 classdef Polar
     properties
         magnitude 
